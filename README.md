@@ -1,6 +1,6 @@
 # SpellChecker
 
-This repository includes an excercise on hashtables from Columbia University courseworks. 
+This repository includes an excercise on hashsets from Columbia University courseworks. This SpellChecker is fully usable. As you just need to use the `SpellCheckerTest.java` as the main driver, and input your txt into `test.txt`.
 
 ## Directions:
 
